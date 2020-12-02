@@ -1,20 +1,21 @@
 ## :clipboard: 논문의 정보를 알려주세요.
-- 논문의 제목을 써주세요.
-- 논문의 주요 저자들을 써주세요.
-- 투고 저널을 써주세요.
-- 게재일자를 써주세요.
+- Predicting Infectious Disease Using Deep Learning and Big Data
+- Sangwon Chae,Sungjun Kwon and Donghyun Lee
+- MDPI
+- Published: 27 July 2018
 
 ## :page_with_curl: Abstract(본문)
-> 해당 본문의 abstract를 실어주세요.
+> Infectious disease occurs when a person is infected by a pathogen from another person or an animal. It is a problem that causes harm at both individual and macro scales. The Korea Center for Disease Control (KCDC) operates a surveillance system to minimize infectious disease contagions. However, in this system, it is difficult to immediately act against infectious disease because of missing and delayed reports. Moreover, infectious disease trends are not known, which means prediction is not easy. This study predicts infectious diseases by optimizing the parameters of deep learning algorithms while considering big data including social media data. The performance of the deep neural network (DNN) and long-short term memory (LSTM) learning models were compared with the autoregressive integrated moving average (ARIMA) when predicting three infectious diseases one week into the future. The results show that the DNN and LSTM models perform better than ARIMA. When predicting chickenpox, the top-10 DNN and LSTM models improved average performance by 24% and 19%, respectively. The DNN model performed stably and the LSTM model was more accurate when infectious disease was spreading. We believe that this study’s models can help eliminate reporting delays in existing surveillance systems and, therefore, minimize costs to society.
 
 ## :mag_right: 어떤 논문인지 소개해주세요.
-- 간략하게 논문에 대해 소개해주세요.
+- 소셜 미디어 데이터를 포함한 빅데이터를 고려하면서 딥러닝 알고리즘의 파라미터를 최적화하였습니다
+- DNN과 LSTM 모델의 차이와 각각 모델이 어떻게 평균 성능을 향상시켰는지 볼 예정입니다
 
 ## :key: 핵심 키워드를 적어주세요.
-- 논문의 핵심 키워드를 3개 ~ 5개 적어주세요,
+- infectious disease prediction; deep neural network(DNN); long short-term memory(LSTM); deep learning; social media big data
 
 ## :paperclip: URL
-- markdown으로 축약되지 않은 URL을 게재해주세요.
+- [Predicting Infectious Disease Using Deep Learning and Big Data](https://www.mdpi.com/1660-4601/15/8/1596/htm)
 
 --------------------------------------------------------------
 
