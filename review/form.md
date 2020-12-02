@@ -35,4 +35,6 @@
 추가적으로 궁금한 사항에 대해서 적어주세요.
 같이 읽으면 좋은 레퍼런스의 제목과 URL을 덧붙혀주세요.
 
-[논문 리뷰 양식 참고](https://github.com/koptimizer/my_PaperLog/blob/master/review_form.md)
+
+## :star2: 참조
+[논문 리뷰 양식](https://github.com/koptimizer/my_PaperLog/blob/master/review_form.md)
