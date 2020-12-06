@@ -20,9 +20,9 @@
 --------------------------------------------------------------
 
 ## :bulb: 방법은 무엇입니까?
-- OLS, ARIMA 전통예측모델과 DNN, LSTM 딥러닝 예측모델
-- Adadelta, Adagrad, Adam, Adamax, Nadam, RMSprop, SGD 최적화기를 비교
-- 예측 속도를 평가하기 위해 RMSE를 사용
+- 모델 : OLS, ARIMA 전통예측모델과 DNN, LSTM 딥러닝 예측모델
+- 최적화기 : Adadelta, Adagrad, Adam, Adamax, Nadam, RMSprop, SGD
+- 평가 : RMSE
 
 ## :chart_with_upwards_trend: 실험과 그 결과는 어떻습니까?
 ### 실험
