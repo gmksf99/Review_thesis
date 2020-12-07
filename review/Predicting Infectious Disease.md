@@ -5,11 +5,20 @@
 - Published: 27 July 2018
 
 ## :page_with_curl: Abstract(본문)
+> 질병관리본부는 감염병 전염을 최소화하기 위해 감시시스템을 운영하고 있음 
+> 하지만 보고 누락과 지연으로 인해 감염병에 대한 즉각적인 조치가 어렵고 전염병 동향도 알려지지 않아 예측이 쉽지 않음
+> 본 연구는 소셜 미디어 데이터를 포함한 빅데이터를 고려하면서 딥러닝 알고리즘의 파라미터를 최적화하여 감염병을 예측하는 모델을 만들고 비교
+
 > Infectious disease occurs when a person is infected by a pathogen from another person or an animal. It is a problem that causes harm at both individual and macro scales. The Korea Center for Disease Control (KCDC) operates a surveillance system to minimize infectious disease contagions. However, in this system, it is difficult to immediately act against infectious disease because of missing and delayed reports. Moreover, infectious disease trends are not known, which means prediction is not easy. This study predicts infectious diseases by optimizing the parameters of deep learning algorithms while considering big data including social media data. The performance of the deep neural network (DNN) and long-short term memory (LSTM) learning models were compared with the autoregressive integrated moving average (ARIMA) when predicting three infectious diseases one week into the future. The results show that the DNN and LSTM models perform better than ARIMA. When predicting chickenpox, the top-10 DNN and LSTM models improved average performance by 24% and 19%, respectively. The DNN model performed stably and the LSTM model was more accurate when infectious disease was spreading. We believe that this study’s models can help eliminate reporting delays in existing surveillance systems and, therefore, minimize costs to society.
 
-## :mag_right: 어떤 논문인지 소개해주세요.
-- 소셜 미디어 데이터를 포함한 빅데이터를 고려하면서 딥러닝 알고리즘의 파라미터를 최적화하였습니다
-- DNN과 LSTM 모델의 차이와 각각 모델이 어떻게 평균 성능을 향상시켰는지 볼 예정입니다
+## :mag_right: 사용한 데이터를 적어주세요
+### 검색데이터
+- 네이버 데이터랩(https://datalab.naver.com/keyword/trendSearch.naver)
+- 인터넷트렌드(2017년 상반기 보건의료 분야 검색엔진 http://internettrend.co.kr/trendForward.tsp)
+### 기상데이터
+- 기상청 기상정보 공개포털(https://data.kma.go.kr)
+### 감염병 데이터
+감염병 웹통계시스템(https://is.cdc.go.kr/dstat/index.jsp)
 
 ## :key: 핵심 키워드를 적어주세요.
 - infectious disease prediction; deep neural network(DNN); long short-term memory(LSTM); deep learning; social media big data
